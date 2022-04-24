@@ -1,7 +1,7 @@
 # Foursquare-Location-Matching
 Foursquare - Location Matching
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoursquare.com%2F&psig=AOvVaw0nM6-aGFhB4G7P6wM982f8&ust=1650865954826000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIihnImBrPcCFQAAAAAdAAAAABAJ)
+![alt text](https://images.ctfassets.net/exg8oyvb0wfw/6YGSNm9Fz3m8jSkV5c3fIz/7274cc9f7b03f83df6da513c454773f2/FSQ_social_share_image.gif?q=75)
 
 When you look for nearby restaurants or plan an errand in an unknown area, you expect relevant, accurate information. To maintain quality data worldwide is a challenge, and one with implications beyond navigation. Businesses make decisions on new sites for market expansion, analyze the competitive landscape, and show relevant ads informed by location data. For these, and many other uses, reliable data is critical.
 
